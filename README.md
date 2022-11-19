@@ -1,5 +1,3 @@
-# GitTutorial
-
 # Como usar o Git e Github na prática
 
 ## O que é o GIT e GitHub?
