@@ -2,10 +2,6 @@
 
 # Como usar o Git e Github na prática
 
-Olá, eu sou o Vinicius Amaral e hoje eu vou mostrar pra vocês como utilizamos o GIT na prática.
-
-Mas antes, um pouquinho da teoria!
-
 ## O que é o GIT e GitHub?
 * O Git é um sistema de versionamento de arquivos. Nos permite ter controle de todo código já escrito, histório de alterações e compartilhamento de código entre equipes. Já o GitHub é uma plataforma para hospedar esses arquivos que você está utilizando Git. O GitHub trabalha com repositórios que armazenam nossos projetos.
 
